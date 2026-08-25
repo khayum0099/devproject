@@ -1,5 +1,3 @@
-print
-"""
 Delver's Descent — a single-file Python roguelike dungeon crawler.
 Run: python delvers_descent.py
 Dependencies: only the Python standard library.
